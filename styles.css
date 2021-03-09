@@ -48,12 +48,12 @@ body {
 }
 
 .left_txt{
-  flex: 70%;
+  flex: 60%;
   padding: 20px;
   font-family: 'Lato', sans-serif;
 }
 
 .right_stuff{
-  flex: 30%;
+  flex: 40%;
   padding 20px;
 }
