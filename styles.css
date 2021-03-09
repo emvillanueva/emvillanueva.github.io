@@ -20,7 +20,7 @@ body {
   font-family: 'DotGothic16', sans-serif;
   justify-content: center;
   letter-spacing: 1px;
-  text-shadow: 0 0 4px #00FFFF;
+  text-shadow: 0 0 5px #00FFFF;
 }
 
 .introtxt{
@@ -39,7 +39,7 @@ body {
 .rover{
   display:flex;
   justify-content: center;
-  height: 10px;
+  height: 600px;
 
 }
 
