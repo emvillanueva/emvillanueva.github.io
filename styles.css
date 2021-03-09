@@ -20,7 +20,7 @@ body {
   font-family: 'DotGothic16', sans-serif;
   justify-content: center;
   letter-spacing: 1px;
-  text-shadow: 0 0 5px #FF0000
+  text-shadow: 0 0 7px #FF0000
 }
 
 .introtxt{
@@ -39,7 +39,7 @@ body {
 .rover{
   display:flex;
   justify-content: center;
-  justify-content: space-around;
+  height: 10px;
 
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 .left_txt{
-  flex: 60%;
+  flex: 70%;
   font-size:20px;
   padding: 5px;
   font-family: 'Lato', sans-serif;
@@ -60,9 +60,9 @@ body {
 }
 
 .right_stuff{
-  flex: 30%;
+  flex: 20%;
   padding 5px;
-  justify-content:right;
+  justify-content:center;
 }
 
 @media (max-width: 800px) {
