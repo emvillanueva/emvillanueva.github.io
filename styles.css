@@ -39,7 +39,7 @@ body {
 .rover{
   display:flex;
   justify-content: center;
-  padding:10px;
+  justify-content: space-around;
 
 }
 
