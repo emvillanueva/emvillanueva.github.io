@@ -30,6 +30,6 @@ body {
   font-family: 'Lato', sans-serif;
   text-align:left;
   display:flex;
-  flex-wrap: wrap;
+  flex-flow: column wrap;
   
 }
