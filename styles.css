@@ -31,9 +31,15 @@ body {
   justify-content: center;
 }
 #intro {
-  text-size: 40px;
+  font-size: 25px;
   font-family: 'Lato', sans-serif;
   text-align:center;
 
   
+}
+
+.rover{
+  display:flex;
+  justify-content: center;
+
 }
