@@ -11,7 +11,8 @@ body {
 }
 
 #content{
-  text-align: right;
+  position: absolute;
+  right: 0;
 
 }
 
