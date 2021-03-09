@@ -39,7 +39,7 @@ body {
 .rover{
   display:flex;
   justify-content: center;
-  height: 600px;
+  margin:10px 0px 10px 0px;
 
 }
 
@@ -65,7 +65,7 @@ body {
   justify-content:center;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .row {
     flex-direction: column;
     justify-content: center;
