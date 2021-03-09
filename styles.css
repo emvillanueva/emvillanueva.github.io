@@ -1,5 +1,7 @@
 body {
-background-color: rgb(66,28,82);
+  background-color: rgb(66,28,82);
+  color: rgb(0,0,0);
+  text-align: left;
 
 
 }
@@ -8,7 +10,10 @@ background-color: rgb(66,28,82);
   padding:0px;
 }
 
+#content{
+  text-align: right;
 
+}
 
 p {
   display: block;
