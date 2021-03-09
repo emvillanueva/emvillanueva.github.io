@@ -45,6 +45,8 @@ body {
 .row{
   display:flex;
   flex-wrap: wrap;
+  flex-direction:row;
+
 }
 
 .left_txt{
@@ -61,3 +63,9 @@ body {
   padding 5px;
   justify-content:right;
 }
+
+@media (max-width: 800px) {
+  .row {
+    flex-direction: column;
+    justify-content: center;
+  }
