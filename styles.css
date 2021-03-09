@@ -49,6 +49,7 @@ body {
 
 .left_txt{
   flex: 50%;
+  font-size:20px;
   padding: 5px;
   font-family: 'Lato', sans-serif;
   justify-content:left;
