@@ -31,5 +31,6 @@ body {
   text-align:left;
   display:flex;
   flex-flow: column wrap;
+  justify-content: left;
   
 }
