@@ -20,7 +20,7 @@ body {
   font-family: 'DotGothic16', sans-serif;
   justify-content: center;
   letter-spacing: 1px;
-  text-shadow: 0 0 7px #FF0000
+  text-shadow: 0 0 4px #00FFFF;
 }
 
 .introtxt{
