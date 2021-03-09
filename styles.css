@@ -44,3 +44,18 @@ body {
   justify-content: center;
 
 }
+
+.row{
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.left_txt{
+  flex: 70%;
+  padding: 20px;
+}
+
+.right_stuff{
+  flex: 30%;
+  padding 20px;
+}
