@@ -16,14 +16,11 @@ body {
 
 }
 
-@font-face{
-  font-family: junction-bold;
-  src:url(junction-bold.woff);
   
 }
 #top {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font-family: junction-bold, "Trabuchet MS", sans-serif;
+  font-family: "DotGothic16", sans-serif;
 }
