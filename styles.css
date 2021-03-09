@@ -15,7 +15,6 @@ body {
   right: 0;
 
 }
-
   
 #top {
   display: block;
@@ -24,4 +23,11 @@ body {
   font-family: 'DotGothic16', sans-serif;
   text-align: center;
   letter-spacing: 1px;
+}
+
+#intro {
+  text-size: 15px;
+  font-family: 'Lato', sans-serif;
+  text-align:left;
+  
 }
